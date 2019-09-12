@@ -1,4 +1,4 @@
-# Centry_Python_CSV #
+# CentryPythonCSV #
 
 Este proyecto actualiza stock y precios desde un CSV hacia Centry a través de dos Cron Jobs, uno para stock y otro para
  precios, con tiempos de inicio de ejecución configurables e independientes entre sí. 
